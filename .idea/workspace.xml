@@ -60,9 +60,13 @@
       <file leaf-file-name="DistributionCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/hoshikoo/DistributionCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17857143" vertical-offset="0" max-vertical-offset="480">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding />
+            <state vertical-scroll-proportion="0.49107143" vertical-offset="300" max-vertical-offset="930">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#405#425#0" expanded="true" />
+                <element signature="e#479#490#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +85,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
-    <option name="y" value="161" />
+    <option name="x" value="156" />
+    <option name="y" value="30" />
     <option name="width" value="982" />
     <option name="height" value="793" />
   </component>
@@ -354,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="161" width="982" height="793" extended-state="0" />
+    <frame x="156" y="30" width="982" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -438,7 +442,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#425#0" expanded="true" />
+            <element signature="e#479#490#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -472,7 +480,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#425#0" expanded="true" />
+            <element signature="e#479#490#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -534,9 +546,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/hoshikoo/DistributionCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17857143" vertical-offset="0" max-vertical-offset="480">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
+        <state vertical-scroll-proportion="0.49107143" vertical-offset="300" max-vertical-offset="930">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#425#0" expanded="true" />
+            <element signature="e#479#490#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
